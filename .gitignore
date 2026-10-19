@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+failover.jsonl
+*.lock
+*.bak-*
+.DS_Store
